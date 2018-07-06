@@ -1,2 +1,2 @@
 # gestionasistencia
-Gestion asistencia alumnos del centro
+Gestion asistencia alumnos del centro de secundaria
